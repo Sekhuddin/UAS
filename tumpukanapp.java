@@ -2,7 +2,7 @@ package Nomor1;
 public class TumpukanApp {
     public static void main(String args[]){
         Tumpukan tumpukan = new Tumpukan (10);
-        tumpukan.push(o);
+        tumpukan.push(0);
         tumpukan.baca();
         tumpukan.push(2);
         tumpukan.baca();
